@@ -6,7 +6,7 @@
 				<a-row>
 					<a-col :span="12"
 					       :offset="6">
-						<icon-font type="iconcloudlogo"
+						<icon-font type="icon-cloudlogo"
 						           class="TOPICON" />
 						<span class="TOPTITLE">
 							WELCOME
@@ -42,7 +42,7 @@ import particles from "./components/particles";
 import { Icon } from 'ant-design-vue';
 
 const IconFont = Icon.createFromIconfontCN({
-	scriptUrl: '//at.alicdn.com/t/font_1210103_zhnrozwkq2m.js',
+	scriptUrl: '//at.alicdn.com/t/font_1210103_exgb757e4zw.js',
 })
 const data = [
 	{
@@ -62,7 +62,7 @@ const data = [
 	},
 	{
 		title: 'netdata',
-		type: 'icon-Datastatistics1',
+		type: 'icon-datastatistics',
 		href: 'https://netdata.spring4j.com'
 	},
 	{
