@@ -84,7 +84,27 @@ const data = [
 		title: 'ESXI2',
 		type: 'iconvmware',
 		href: 'https://esxi2.spring4j.com'
-	}
+	},
+	{
+		title: 'HAPROXY',
+		type: 'iconguizeyinqing',
+		href: 'https://haproxy.spring4j.com'
+	},
+	{
+		title: 'BT',
+		type: 'iconguizeyinqing',
+		href: 'https://bt.spring4j.com'
+	},
+	{
+		title: 'AJENTI',
+		type: 'iconguizeyinqing',
+		href: 'https://ajenti.spring4j.com'
+	},
+	{
+		title: 'BLOG',
+		type: 'iconguizeyinqing',
+		href: 'https://blog.spring4j.com'
+	},
 ]
 export default {
 	name: 'app',
