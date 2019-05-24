@@ -87,23 +87,23 @@ const data = [
 	},
 	{
 		title: 'HAPROXY',
-		type: 'iconguizeyinqing',
+		type: 'iconvmware',
 		href: 'https://haproxy.spring4j.com'
 	},
 	{
 		title: 'BT',
-		type: 'iconguizeyinqing',
+		type: 'iconvmware',
 		href: 'https://bt.spring4j.com'
 	},
 	{
 		title: 'AJENTI',
-		type: 'iconguizeyinqing',
+		type: 'iconvmware',
 		href: 'https://ajenti.spring4j.com'
 	},
 	{
 		title: 'BLOG',
-		type: 'iconguizeyinqing',
-		href: 'https://blog.spring4j.com'
+		type: 'iconvmware',
+		href: 'https://blog.open4j.com'
 	},
 ]
 export default {
