@@ -46,44 +46,44 @@ const IconFont = Icon.createFromIconfontCN({
 })
 const data = [
 	{
-		title: 'IKUAI',
+		title: 'ROS',
 		type: 'iconluyou1',
-		href: 'http://home.addxx.com:5002'
+		href: 'https://ros.spring4j.com'
 	},
 	{
 		title: 'LEDE',
 		type: 'iconluyouqi',
-		href: 'http://home.addxx.com:5004'
+		href: 'https://lede.spring4j.com'
 	},
 	{
-		title: 'AC88U',
-		type: 'iconluyou',
-		href: 'http://home.addxx.com:5003'
-	},
-	{
-		title: 'NAS SYSTEM',
+		title: 'NAS',
 		type: 'iconnas',
-		href: 'http://nas.addxx.com:5000'
+		href: 'https://dsm.spring4j.com'
 	},
 	{
-		title: 'MOVIE',
+		title: 'netdata',
+		type: 'iconluyou',
+		href: 'https://netdata.spring4j.com'
+	},
+	{
+		title: 'PLEX',
 		type: 'iconmovie',
-		href: 'http://nas.addxx.com:5000/?launchApp=SYNO.SDS.VideoStation.AppInstance#!Home'
+		href: 'https://plex.spring4j.com'
 	},
 	{
-		title: 'CLOUD DISK',
+		title: 'CLOUD',
 		type: 'iconclouddisk',
-		href: 'http://nas.addxx.com:5000/?launchApp=SYNO.SDS.Drive.Application'
+		href: 'https://baidu.spring4j.com'
 	},
 	{
-		title: 'PHOTO',
-		type: 'iconxiangce',
-		href: 'http://nas.addxx.com:8085/photo/#!Albums'
+		title: 'ESXI',
+		type: 'iconvmware',
+		href: 'https://esxi.spring4j.com'
 	}
 	, {
-		title: 'PROXMOX VE',
+		title: 'ESXI2',
 		type: 'iconvmware',
-		href: 'https://home.addxx.com:5001'
+		href: 'https://esxi2.spring4j.com'
 	}
 ]
 export default {
