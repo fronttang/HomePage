@@ -9,7 +9,7 @@
 						<icon-font type="icon-cloudlogo"
 						           class="TOPICON" />
 						<span class="TOPTITLE">
-							WELCOME
+							Home Control Center
 						</span>
 					</a-col>
 				</a-row>
@@ -61,7 +61,7 @@ const data = [
 		href: 'https://dsm.spring4j.com'
 	},
 	{
-		title: 'netdata',
+		title: 'NETDATA',
 		type: 'icon-datastatistics',
 		href: 'https://netdata.spring4j.com'
 	},
@@ -118,7 +118,7 @@ export default {
 		IconFont
 	},
 	created () {
-		document.title = 'Home'
+		document.title = 'Home Control Center'
 	}
 }
 </script>
