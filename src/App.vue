@@ -42,67 +42,67 @@ import particles from "./components/particles";
 import { Icon } from 'ant-design-vue';
 
 const IconFont = Icon.createFromIconfontCN({
-	scriptUrl: '//at.alicdn.com/t/font_1201034_mfll8gpu7h.js',
+	scriptUrl: '//at.alicdn.com/t/font_1210103_fuqoj3fbp3.js',
 })
 const data = [
 	{
 		title: 'ROS',
-		type: 'iconluyou1',
+		type: 'icon-luyou',
 		href: 'https://ros.spring4j.com'
 	},
 	{
 		title: 'LEDE',
-		type: 'iconluyouqi',
+		type: 'icon-luyouqi2',
 		href: 'https://lede.spring4j.com'
 	},
 	{
 		title: 'NAS',
-		type: 'iconnas',
+		type: 'icon-nas',
 		href: 'https://dsm.spring4j.com'
 	},
 	{
 		title: 'netdata',
-		type: 'iconluyou',
+		type: 'icon-NASwangpan',
 		href: 'https://netdata.spring4j.com'
 	},
 	{
 		title: 'PLEX',
-		type: 'iconmovie',
+		type: 'icon-plex',
 		href: 'https://plex.spring4j.com'
 	},
 	{
 		title: 'CLOUD',
-		type: 'iconclouddisk',
+		type: 'icon-yun',
 		href: 'https://baidu.spring4j.com'
 	},
 	{
 		title: 'ESXI',
-		type: 'iconvmware',
+		type: 'icon-vmware1',
 		href: 'https://esxi.spring4j.com'
 	}
 	, {
 		title: 'ESXI2',
-		type: 'iconvmware',
+		type: 'icon-vmware',
 		href: 'https://esxi2.spring4j.com'
 	},
 	{
 		title: 'HAPROXY',
-		type: 'iconvmware',
+		type: 'icon-HAProxy',
 		href: 'https://haproxy.spring4j.com'
 	},
 	{
 		title: 'BT',
-		type: 'iconvmware',
+		type: 'icon-BTdefault',
 		href: 'https://bt.spring4j.com'
 	},
 	{
 		title: 'AJENTI',
-		type: 'iconvmware',
+		type: 'icon-panel',
 		href: 'https://ajenti.spring4j.com'
 	},
 	{
 		title: 'BLOG',
-		type: 'iconvmware',
+		type: 'icon-jiaoyu_educational',
 		href: 'https://blog.open4j.com'
 	},
 ]
